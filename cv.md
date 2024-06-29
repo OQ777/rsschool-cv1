@@ -30,4 +30,13 @@ const addNumbersExpression = function(a, b) {
 console.log("Сумма 6 и 7 равна:", addNumbersExpression(6, 7));
 ```
 
+### Education:
+
+* __Ryazan Radio Engineering University __ 
+  + 4 course 
+### Languages:
+
+* Russian _(native speaker)_
+* English _(A2)_
+
 
